@@ -5,9 +5,8 @@ Link on Kaggle (sample of the data used)
 
 https://www.kaggle.com/datasets/bwandowando/2-million-formerly-twitter-google-reviews/
 
-# Description
+# Dataset Description
 
-Usage
 This dataset should paint a good picture on what is the public's perception of the app over the years. Using this dataset, we can do the following
 
 Extract sentiments and trends

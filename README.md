@@ -1,5 +1,5 @@
 # sentiment_analysis_reviews
-Sentiment analysis of twitter app review from Google
+Sentiment analysis of the twitter app reviews from Google
 
 Link on Kaggle (sample of the data used)
 
